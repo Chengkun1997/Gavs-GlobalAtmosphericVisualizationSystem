@@ -71,6 +71,7 @@ export default ({
       }
       map.setZoom(nowZoom)
     }
+    // 底图切换
     return {
       naviClick,
       zoomClick,
